@@ -1,4 +1,12 @@
-### Hi there 👋
+# Ella's Github Profile
+
+## Ella's Story
+First 
+
+
+## Status
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ella-front-dev&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ella-front-dev/ella-front-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
